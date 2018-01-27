@@ -7,7 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		42125C3D201C9F0A007ADC01 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C3C201C9F0A007ADC01 /* main.cpp */; };
+		42125C91201CA205007ADC01 /* Exercice 1_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C43201CA205007ADC01 /* Exercice 1_1.cpp */; };
+		42125C92201CA205007ADC01 /* Exercice 1_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C45201CA205007ADC01 /* Exercice 1_2.cpp */; };
+		42125C93201CA205007ADC01 /* Exercice 1_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C47201CA205007ADC01 /* Exercice 1_3.cpp */; };
+		42125C94201CA205007ADC01 /* Exercice 2_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C49201CA205007ADC01 /* Exercice 2_1.cpp */; };
+		42125C95201CA205007ADC01 /* Exercice 2_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C4B201CA205007ADC01 /* Exercice 2_2.cpp */; };
+		42125C96201CA205007ADC01 /* Exercice 2_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C4D201CA205007ADC01 /* Exercice 2_3.cpp */; };
+		42125C97201CA205007ADC01 /* Exercice 2_4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C4F201CA205007ADC01 /* Exercice 2_4.cpp */; };
+		42125C98201CA205007ADC01 /* Exercice 2_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C51201CA205007ADC01 /* Exercice 2_5.cpp */; };
+		42125C99201CA205007ADC01 /* Exercice 2_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C53201CA205007ADC01 /* Exercice 2_6.cpp */; };
+		42125C9A201CA205007ADC01 /* Exercice 2_7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C55201CA205007ADC01 /* Exercice 2_7.cpp */; };
+		42125C9B201CA205007ADC01 /* Exercice 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C57201CA205007ADC01 /* Exercice 3.cpp */; };
+		42125C9C201CA205007ADC01 /* Exercice 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C59201CA205007ADC01 /* Exercice 4.cpp */; };
+		42125C9D201CA205007ADC01 /* Exercice 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C5B201CA205007ADC01 /* Exercice 5.cpp */; };
+		42125C9E201CA205007ADC01 /* Exercice 6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C5D201CA205007ADC01 /* Exercice 6.cpp */; };
+		42125C9F201CA205007ADC01 /* Exercice 7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C5F201CA205007ADC01 /* Exercice 7.cpp */; };
+		42125CA0201CA205007ADC01 /* Exercice 8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C61201CA205007ADC01 /* Exercice 8.cpp */; };
+		42125CA1201CA205007ADC01 /* Exercice 9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C63201CA205007ADC01 /* Exercice 9.cpp */; };
+		42125CA2201CA205007ADC01 /* Exercice 10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C65201CA205007ADC01 /* Exercice 10.cpp */; };
+		42125CA3201CA205007ADC01 /* Exercice 11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C67201CA205007ADC01 /* Exercice 11.cpp */; };
+		42125CA4201CA205007ADC01 /* Exercice 12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C69201CA205007ADC01 /* Exercice 12.cpp */; };
+		42125CA5201CA205007ADC01 /* Exercice 13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C6B201CA205007ADC01 /* Exercice 13.cpp */; };
+		42125CA6201CA205007ADC01 /* Exercice 14.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C6D201CA205007ADC01 /* Exercice 14.cpp */; };
+		42125CA7201CA205007ADC01 /* Exercice 15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C6F201CA205007ADC01 /* Exercice 15.cpp */; };
+		42125CA8201CA205007ADC01 /* Exercice 16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C71201CA205007ADC01 /* Exercice 16.cpp */; };
+		42125CA9201CA205007ADC01 /* Exercice 17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C73201CA205007ADC01 /* Exercice 17.cpp */; };
+		42125CAA201CA205007ADC01 /* Exercice 18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C75201CA205007ADC01 /* Exercice 18.cpp */; };
+		42125CAB201CA205007ADC01 /* Exercice 19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C77201CA205007ADC01 /* Exercice 19.cpp */; };
+		42125CAC201CA205007ADC01 /* Exercice 20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C79201CA205007ADC01 /* Exercice 20.cpp */; };
+		42125CAD201CA205007ADC01 /* Exercice 21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C7B201CA205007ADC01 /* Exercice 21.cpp */; };
+		42125CAE201CA205007ADC01 /* Exercice 22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C7D201CA205007ADC01 /* Exercice 22.cpp */; };
+		42125CAF201CA205007ADC01 /* Exercice 23.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C7F201CA205007ADC01 /* Exercice 23.cpp */; };
+		42125CB0201CA205007ADC01 /* Exercice 24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C81201CA205007ADC01 /* Exercice 24.cpp */; };
+		42125CB1201CA205007ADC01 /* Exercice 25.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C83201CA205007ADC01 /* Exercice 25.cpp */; };
+		42125CB2201CA205007ADC01 /* Exercice 26.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C85201CA205007ADC01 /* Exercice 26.cpp */; };
+		42125CB3201CA205007ADC01 /* Exercice 27.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C87201CA205007ADC01 /* Exercice 27.cpp */; };
+		42125CB4201CA205007ADC01 /* Exercice 28.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C89201CA205007ADC01 /* Exercice 28.cpp */; };
+		42125CB5201CA205007ADC01 /* Exercice 29.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C8B201CA205007ADC01 /* Exercice 29.cpp */; };
+		42125CB6201CA205007ADC01 /* Exercice 30.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C8D201CA205007ADC01 /* Exercice 30.cpp */; };
+		42125CB7201CA205007ADC01 /* Exercice 31.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42125C8F201CA205007ADC01 /* Exercice 31.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +62,84 @@
 
 /* Begin PBXFileReference section */
 		42125C39201C9F0A007ADC01 /* CPP-Examples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CPP-Examples"; sourceTree = BUILT_PRODUCTS_DIR; };
-		42125C3C201C9F0A007ADC01 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		42125C43201CA205007ADC01 /* Exercice 1_1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 1_1.cpp"; sourceTree = "<group>"; };
+		42125C44201CA205007ADC01 /* Exercice 1_1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 1_1.h"; sourceTree = "<group>"; };
+		42125C45201CA205007ADC01 /* Exercice 1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 1_2.cpp"; sourceTree = "<group>"; };
+		42125C46201CA205007ADC01 /* Exercice 1_2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 1_2.h"; sourceTree = "<group>"; };
+		42125C47201CA205007ADC01 /* Exercice 1_3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 1_3.cpp"; sourceTree = "<group>"; };
+		42125C48201CA205007ADC01 /* Exercice 1_3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 1_3.h"; sourceTree = "<group>"; };
+		42125C49201CA205007ADC01 /* Exercice 2_1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_1.cpp"; sourceTree = "<group>"; };
+		42125C4A201CA205007ADC01 /* Exercice 2_1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_1.h"; sourceTree = "<group>"; };
+		42125C4B201CA205007ADC01 /* Exercice 2_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_2.cpp"; sourceTree = "<group>"; };
+		42125C4C201CA205007ADC01 /* Exercice 2_2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_2.h"; sourceTree = "<group>"; };
+		42125C4D201CA205007ADC01 /* Exercice 2_3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_3.cpp"; sourceTree = "<group>"; };
+		42125C4E201CA205007ADC01 /* Exercice 2_3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_3.h"; sourceTree = "<group>"; };
+		42125C4F201CA205007ADC01 /* Exercice 2_4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_4.cpp"; sourceTree = "<group>"; };
+		42125C50201CA205007ADC01 /* Exercice 2_4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_4.h"; sourceTree = "<group>"; };
+		42125C51201CA205007ADC01 /* Exercice 2_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_5.cpp"; sourceTree = "<group>"; };
+		42125C52201CA205007ADC01 /* Exercice 2_5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_5.h"; sourceTree = "<group>"; };
+		42125C53201CA205007ADC01 /* Exercice 2_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_6.cpp"; sourceTree = "<group>"; };
+		42125C54201CA205007ADC01 /* Exercice 2_6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_6.h"; sourceTree = "<group>"; };
+		42125C55201CA205007ADC01 /* Exercice 2_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 2_7.cpp"; sourceTree = "<group>"; };
+		42125C56201CA205007ADC01 /* Exercice 2_7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2_7.h"; sourceTree = "<group>"; };
+		42125C57201CA205007ADC01 /* Exercice 3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 3.cpp"; sourceTree = "<group>"; };
+		42125C58201CA205007ADC01 /* Exercice 3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 3.h"; sourceTree = "<group>"; };
+		42125C59201CA205007ADC01 /* Exercice 4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 4.cpp"; sourceTree = "<group>"; };
+		42125C5A201CA205007ADC01 /* Exercice 4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 4.h"; sourceTree = "<group>"; };
+		42125C5B201CA205007ADC01 /* Exercice 5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 5.cpp"; sourceTree = "<group>"; };
+		42125C5C201CA205007ADC01 /* Exercice 5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 5.h"; sourceTree = "<group>"; };
+		42125C5D201CA205007ADC01 /* Exercice 6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 6.cpp"; sourceTree = "<group>"; };
+		42125C5E201CA205007ADC01 /* Exercice 6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 6.h"; sourceTree = "<group>"; };
+		42125C5F201CA205007ADC01 /* Exercice 7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 7.cpp"; sourceTree = "<group>"; };
+		42125C60201CA205007ADC01 /* Exercice 7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 7.h"; sourceTree = "<group>"; };
+		42125C61201CA205007ADC01 /* Exercice 8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 8.cpp"; sourceTree = "<group>"; };
+		42125C62201CA205007ADC01 /* Exercice 8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 8.h"; sourceTree = "<group>"; };
+		42125C63201CA205007ADC01 /* Exercice 9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 9.cpp"; sourceTree = "<group>"; };
+		42125C64201CA205007ADC01 /* Exercice 9.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 9.h"; sourceTree = "<group>"; };
+		42125C65201CA205007ADC01 /* Exercice 10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 10.cpp"; sourceTree = "<group>"; };
+		42125C66201CA205007ADC01 /* Exercice 10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 10.h"; sourceTree = "<group>"; };
+		42125C67201CA205007ADC01 /* Exercice 11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 11.cpp"; sourceTree = "<group>"; };
+		42125C68201CA205007ADC01 /* Exercice 11.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 11.h"; sourceTree = "<group>"; };
+		42125C69201CA205007ADC01 /* Exercice 12.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 12.cpp"; sourceTree = "<group>"; };
+		42125C6A201CA205007ADC01 /* Exercice 12.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 12.h"; sourceTree = "<group>"; };
+		42125C6B201CA205007ADC01 /* Exercice 13.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 13.cpp"; sourceTree = "<group>"; };
+		42125C6C201CA205007ADC01 /* Exercice 13.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 13.h"; sourceTree = "<group>"; };
+		42125C6D201CA205007ADC01 /* Exercice 14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 14.cpp"; sourceTree = "<group>"; };
+		42125C6E201CA205007ADC01 /* Exercice 14.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 14.h"; sourceTree = "<group>"; };
+		42125C6F201CA205007ADC01 /* Exercice 15.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 15.cpp"; sourceTree = "<group>"; };
+		42125C70201CA205007ADC01 /* Exercice 15.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 15.h"; sourceTree = "<group>"; };
+		42125C71201CA205007ADC01 /* Exercice 16.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 16.cpp"; sourceTree = "<group>"; };
+		42125C72201CA205007ADC01 /* Exercice 16.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 16.h"; sourceTree = "<group>"; };
+		42125C73201CA205007ADC01 /* Exercice 17.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 17.cpp"; sourceTree = "<group>"; };
+		42125C74201CA205007ADC01 /* Exercice 17.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 17.h"; sourceTree = "<group>"; };
+		42125C75201CA205007ADC01 /* Exercice 18.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 18.cpp"; sourceTree = "<group>"; };
+		42125C76201CA205007ADC01 /* Exercice 18.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 18.h"; sourceTree = "<group>"; };
+		42125C77201CA205007ADC01 /* Exercice 19.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 19.cpp"; sourceTree = "<group>"; };
+		42125C78201CA205007ADC01 /* Exercice 19.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 19.h"; sourceTree = "<group>"; };
+		42125C79201CA205007ADC01 /* Exercice 20.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 20.cpp"; sourceTree = "<group>"; };
+		42125C7A201CA205007ADC01 /* Exercice 20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 20.h"; sourceTree = "<group>"; };
+		42125C7B201CA205007ADC01 /* Exercice 21.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 21.cpp"; sourceTree = "<group>"; };
+		42125C7C201CA205007ADC01 /* Exercice 21.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 21.h"; sourceTree = "<group>"; };
+		42125C7D201CA205007ADC01 /* Exercice 22.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 22.cpp"; sourceTree = "<group>"; };
+		42125C7E201CA205007ADC01 /* Exercice 22.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 22.h"; sourceTree = "<group>"; };
+		42125C7F201CA205007ADC01 /* Exercice 23.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 23.cpp"; sourceTree = "<group>"; };
+		42125C80201CA205007ADC01 /* Exercice 23.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 23.h"; sourceTree = "<group>"; };
+		42125C81201CA205007ADC01 /* Exercice 24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 24.cpp"; sourceTree = "<group>"; };
+		42125C82201CA205007ADC01 /* Exercice 24.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 24.h"; sourceTree = "<group>"; };
+		42125C83201CA205007ADC01 /* Exercice 25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 25.cpp"; sourceTree = "<group>"; };
+		42125C84201CA205007ADC01 /* Exercice 25.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 25.h"; sourceTree = "<group>"; };
+		42125C85201CA205007ADC01 /* Exercice 26.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 26.cpp"; sourceTree = "<group>"; };
+		42125C86201CA205007ADC01 /* Exercice 26.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 26.h"; sourceTree = "<group>"; };
+		42125C87201CA205007ADC01 /* Exercice 27.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 27.cpp"; sourceTree = "<group>"; };
+		42125C88201CA205007ADC01 /* Exercice 27.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 27.h"; sourceTree = "<group>"; };
+		42125C89201CA205007ADC01 /* Exercice 28.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 28.cpp"; sourceTree = "<group>"; };
+		42125C8A201CA205007ADC01 /* Exercice 28.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 28.h"; sourceTree = "<group>"; };
+		42125C8B201CA205007ADC01 /* Exercice 29.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 29.cpp"; sourceTree = "<group>"; };
+		42125C8C201CA205007ADC01 /* Exercice 29.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 29.h"; sourceTree = "<group>"; };
+		42125C8D201CA205007ADC01 /* Exercice 30.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 30.cpp"; sourceTree = "<group>"; };
+		42125C8E201CA205007ADC01 /* Exercice 30.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 30.h"; sourceTree = "<group>"; };
+		42125C8F201CA205007ADC01 /* Exercice 31.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercice 31.cpp"; sourceTree = "<group>"; };
+		42125C90201CA205007ADC01 /* Exercice 31.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 31.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +172,334 @@
 		42125C3B201C9F0A007ADC01 /* CPP-Examples */ = {
 			isa = PBXGroup;
 			children = (
-				42125C3C201C9F0A007ADC01 /* main.cpp */,
+				42125CB8201CA212007ADC01 /* Exercice 1 */,
+				42125CB9201CA21F007ADC01 /* Exercice 2 */,
+				42125CBA201CA229007ADC01 /* Exercice 3 */,
+				42125CBB201CA230007ADC01 /* Exercice 4 */,
+				42125CBC201CA23C007ADC01 /* Exercice 5 */,
+				42125CBD201CA246007ADC01 /* Exercice 6 */,
+				42125CBE201CA250007ADC01 /* Exercice 7 */,
+				42125CBF201CA258007ADC01 /* Exercice 8 */,
+				42125CC0201CA260007ADC01 /* Exercice 9 */,
+				42125CC1201CA26A007ADC01 /* Exercice 10 */,
+				42125CC2201CA273007ADC01 /* Exercice 11 */,
+				42125CC3201CA27B007ADC01 /* Exercice 12 */,
+				42125CC4201CA28B007ADC01 /* Exercice 13 */,
+				42125CC5201CA294007ADC01 /* Exercice 14 */,
+				42125CC6201CA29D007ADC01 /* Exercice 15 */,
+				42125CC7201CA2A4007ADC01 /* Exercice 16 */,
+				42125CC8201CA2AC007ADC01 /* Exercice 17 */,
+				42125CC9201CA2B5007ADC01 /* Exercice 18 */,
+				42125CCA201CA2BE007ADC01 /* Exercice 19 */,
+				42125CCB201CA2C5007ADC01 /* Exercice 20 */,
+				42125CCC201CA2CC007ADC01 /* Exercice 21 */,
+				42125CCD201CA2D3007ADC01 /* Exercice 22 */,
+				42125CCE201CA2DB007ADC01 /* Exercice 23 */,
+				42125CCF201CA2E3007ADC01 /* Exercice 24 */,
+				42125CD0201CA2EA007ADC01 /* Exercice 25 */,
+				42125CD1201CA2F1007ADC01 /* Exercice 26 */,
+				42125CD2201CA2F8007ADC01 /* Exercice 27 */,
+				42125CD3201CA300007ADC01 /* Exercice 28 */,
+				42125CD4201CA308007ADC01 /* Exercice 29 */,
+				42125CD5201CA310007ADC01 /* Exercice 30 */,
+				42125CD6201CA318007ADC01 /* Exercice 31 */,
 			);
 			path = "CPP-Examples";
+			sourceTree = "<group>";
+		};
+		42125CB8201CA212007ADC01 /* Exercice 1 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C43201CA205007ADC01 /* Exercice 1_1.cpp */,
+				42125C44201CA205007ADC01 /* Exercice 1_1.h */,
+				42125C45201CA205007ADC01 /* Exercice 1_2.cpp */,
+				42125C46201CA205007ADC01 /* Exercice 1_2.h */,
+				42125C47201CA205007ADC01 /* Exercice 1_3.cpp */,
+				42125C48201CA205007ADC01 /* Exercice 1_3.h */,
+			);
+			name = "Exercice 1";
+			sourceTree = "<group>";
+		};
+		42125CB9201CA21F007ADC01 /* Exercice 2 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C49201CA205007ADC01 /* Exercice 2_1.cpp */,
+				42125C4A201CA205007ADC01 /* Exercice 2_1.h */,
+				42125C4B201CA205007ADC01 /* Exercice 2_2.cpp */,
+				42125C4C201CA205007ADC01 /* Exercice 2_2.h */,
+				42125C4D201CA205007ADC01 /* Exercice 2_3.cpp */,
+				42125C4E201CA205007ADC01 /* Exercice 2_3.h */,
+				42125C4F201CA205007ADC01 /* Exercice 2_4.cpp */,
+				42125C50201CA205007ADC01 /* Exercice 2_4.h */,
+				42125C51201CA205007ADC01 /* Exercice 2_5.cpp */,
+				42125C52201CA205007ADC01 /* Exercice 2_5.h */,
+				42125C53201CA205007ADC01 /* Exercice 2_6.cpp */,
+				42125C54201CA205007ADC01 /* Exercice 2_6.h */,
+				42125C55201CA205007ADC01 /* Exercice 2_7.cpp */,
+				42125C56201CA205007ADC01 /* Exercice 2_7.h */,
+			);
+			name = "Exercice 2";
+			sourceTree = "<group>";
+		};
+		42125CBA201CA229007ADC01 /* Exercice 3 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C57201CA205007ADC01 /* Exercice 3.cpp */,
+				42125C58201CA205007ADC01 /* Exercice 3.h */,
+			);
+			name = "Exercice 3";
+			sourceTree = "<group>";
+		};
+		42125CBB201CA230007ADC01 /* Exercice 4 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C59201CA205007ADC01 /* Exercice 4.cpp */,
+				42125C5A201CA205007ADC01 /* Exercice 4.h */,
+			);
+			name = "Exercice 4";
+			sourceTree = "<group>";
+		};
+		42125CBC201CA23C007ADC01 /* Exercice 5 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C5B201CA205007ADC01 /* Exercice 5.cpp */,
+				42125C5C201CA205007ADC01 /* Exercice 5.h */,
+			);
+			name = "Exercice 5";
+			sourceTree = "<group>";
+		};
+		42125CBD201CA246007ADC01 /* Exercice 6 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C5D201CA205007ADC01 /* Exercice 6.cpp */,
+				42125C5E201CA205007ADC01 /* Exercice 6.h */,
+			);
+			name = "Exercice 6";
+			sourceTree = "<group>";
+		};
+		42125CBE201CA250007ADC01 /* Exercice 7 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C5F201CA205007ADC01 /* Exercice 7.cpp */,
+				42125C60201CA205007ADC01 /* Exercice 7.h */,
+			);
+			name = "Exercice 7";
+			sourceTree = "<group>";
+		};
+		42125CBF201CA258007ADC01 /* Exercice 8 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C61201CA205007ADC01 /* Exercice 8.cpp */,
+				42125C62201CA205007ADC01 /* Exercice 8.h */,
+			);
+			name = "Exercice 8";
+			sourceTree = "<group>";
+		};
+		42125CC0201CA260007ADC01 /* Exercice 9 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C63201CA205007ADC01 /* Exercice 9.cpp */,
+				42125C64201CA205007ADC01 /* Exercice 9.h */,
+			);
+			name = "Exercice 9";
+			sourceTree = "<group>";
+		};
+		42125CC1201CA26A007ADC01 /* Exercice 10 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C65201CA205007ADC01 /* Exercice 10.cpp */,
+				42125C66201CA205007ADC01 /* Exercice 10.h */,
+			);
+			name = "Exercice 10";
+			sourceTree = "<group>";
+		};
+		42125CC2201CA273007ADC01 /* Exercice 11 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C67201CA205007ADC01 /* Exercice 11.cpp */,
+				42125C68201CA205007ADC01 /* Exercice 11.h */,
+			);
+			name = "Exercice 11";
+			sourceTree = "<group>";
+		};
+		42125CC3201CA27B007ADC01 /* Exercice 12 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C69201CA205007ADC01 /* Exercice 12.cpp */,
+				42125C6A201CA205007ADC01 /* Exercice 12.h */,
+			);
+			name = "Exercice 12";
+			sourceTree = "<group>";
+		};
+		42125CC4201CA28B007ADC01 /* Exercice 13 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C6B201CA205007ADC01 /* Exercice 13.cpp */,
+				42125C6C201CA205007ADC01 /* Exercice 13.h */,
+			);
+			name = "Exercice 13";
+			sourceTree = "<group>";
+		};
+		42125CC5201CA294007ADC01 /* Exercice 14 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C6D201CA205007ADC01 /* Exercice 14.cpp */,
+				42125C6E201CA205007ADC01 /* Exercice 14.h */,
+			);
+			name = "Exercice 14";
+			sourceTree = "<group>";
+		};
+		42125CC6201CA29D007ADC01 /* Exercice 15 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C6F201CA205007ADC01 /* Exercice 15.cpp */,
+				42125C70201CA205007ADC01 /* Exercice 15.h */,
+			);
+			name = "Exercice 15";
+			sourceTree = "<group>";
+		};
+		42125CC7201CA2A4007ADC01 /* Exercice 16 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C71201CA205007ADC01 /* Exercice 16.cpp */,
+				42125C72201CA205007ADC01 /* Exercice 16.h */,
+			);
+			name = "Exercice 16";
+			sourceTree = "<group>";
+		};
+		42125CC8201CA2AC007ADC01 /* Exercice 17 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C73201CA205007ADC01 /* Exercice 17.cpp */,
+				42125C74201CA205007ADC01 /* Exercice 17.h */,
+			);
+			name = "Exercice 17";
+			sourceTree = "<group>";
+		};
+		42125CC9201CA2B5007ADC01 /* Exercice 18 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C75201CA205007ADC01 /* Exercice 18.cpp */,
+				42125C76201CA205007ADC01 /* Exercice 18.h */,
+			);
+			name = "Exercice 18";
+			sourceTree = "<group>";
+		};
+		42125CCA201CA2BE007ADC01 /* Exercice 19 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C77201CA205007ADC01 /* Exercice 19.cpp */,
+				42125C78201CA205007ADC01 /* Exercice 19.h */,
+			);
+			name = "Exercice 19";
+			sourceTree = "<group>";
+		};
+		42125CCB201CA2C5007ADC01 /* Exercice 20 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C79201CA205007ADC01 /* Exercice 20.cpp */,
+				42125C7A201CA205007ADC01 /* Exercice 20.h */,
+			);
+			name = "Exercice 20";
+			sourceTree = "<group>";
+		};
+		42125CCC201CA2CC007ADC01 /* Exercice 21 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C7B201CA205007ADC01 /* Exercice 21.cpp */,
+				42125C7C201CA205007ADC01 /* Exercice 21.h */,
+			);
+			name = "Exercice 21";
+			sourceTree = "<group>";
+		};
+		42125CCD201CA2D3007ADC01 /* Exercice 22 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C7D201CA205007ADC01 /* Exercice 22.cpp */,
+				42125C7E201CA205007ADC01 /* Exercice 22.h */,
+			);
+			name = "Exercice 22";
+			sourceTree = "<group>";
+		};
+		42125CCE201CA2DB007ADC01 /* Exercice 23 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C7F201CA205007ADC01 /* Exercice 23.cpp */,
+				42125C80201CA205007ADC01 /* Exercice 23.h */,
+			);
+			name = "Exercice 23";
+			sourceTree = "<group>";
+		};
+		42125CCF201CA2E3007ADC01 /* Exercice 24 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C81201CA205007ADC01 /* Exercice 24.cpp */,
+				42125C82201CA205007ADC01 /* Exercice 24.h */,
+			);
+			name = "Exercice 24";
+			sourceTree = "<group>";
+		};
+		42125CD0201CA2EA007ADC01 /* Exercice 25 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C83201CA205007ADC01 /* Exercice 25.cpp */,
+				42125C84201CA205007ADC01 /* Exercice 25.h */,
+			);
+			name = "Exercice 25";
+			sourceTree = "<group>";
+		};
+		42125CD1201CA2F1007ADC01 /* Exercice 26 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C85201CA205007ADC01 /* Exercice 26.cpp */,
+				42125C86201CA205007ADC01 /* Exercice 26.h */,
+			);
+			name = "Exercice 26";
+			sourceTree = "<group>";
+		};
+		42125CD2201CA2F8007ADC01 /* Exercice 27 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C87201CA205007ADC01 /* Exercice 27.cpp */,
+				42125C88201CA205007ADC01 /* Exercice 27.h */,
+			);
+			name = "Exercice 27";
+			sourceTree = "<group>";
+		};
+		42125CD3201CA300007ADC01 /* Exercice 28 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C89201CA205007ADC01 /* Exercice 28.cpp */,
+				42125C8A201CA205007ADC01 /* Exercice 28.h */,
+			);
+			name = "Exercice 28";
+			sourceTree = "<group>";
+		};
+		42125CD4201CA308007ADC01 /* Exercice 29 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C8B201CA205007ADC01 /* Exercice 29.cpp */,
+				42125C8C201CA205007ADC01 /* Exercice 29.h */,
+			);
+			name = "Exercice 29";
+			sourceTree = "<group>";
+		};
+		42125CD5201CA310007ADC01 /* Exercice 30 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C8D201CA205007ADC01 /* Exercice 30.cpp */,
+				42125C8E201CA205007ADC01 /* Exercice 30.h */,
+			);
+			name = "Exercice 30";
+			sourceTree = "<group>";
+		};
+		42125CD6201CA318007ADC01 /* Exercice 31 */ = {
+			isa = PBXGroup;
+			children = (
+				42125C8F201CA205007ADC01 /* Exercice 31.cpp */,
+				42125C90201CA205007ADC01 /* Exercice 31.h */,
+			);
+			name = "Exercice 31";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +559,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				42125C3D201C9F0A007ADC01 /* main.cpp in Sources */,
+				42125CA5201CA205007ADC01 /* Exercice 13.cpp in Sources */,
+				42125CB1201CA205007ADC01 /* Exercice 25.cpp in Sources */,
+				42125C93201CA205007ADC01 /* Exercice 1_3.cpp in Sources */,
+				42125CB5201CA205007ADC01 /* Exercice 29.cpp in Sources */,
+				42125CAB201CA205007ADC01 /* Exercice 19.cpp in Sources */,
+				42125CA0201CA205007ADC01 /* Exercice 8.cpp in Sources */,
+				42125CB3201CA205007ADC01 /* Exercice 27.cpp in Sources */,
+				42125CA4201CA205007ADC01 /* Exercice 12.cpp in Sources */,
+				42125CB6201CA205007ADC01 /* Exercice 30.cpp in Sources */,
+				42125C98201CA205007ADC01 /* Exercice 2_5.cpp in Sources */,
+				42125CA2201CA205007ADC01 /* Exercice 10.cpp in Sources */,
+				42125C99201CA205007ADC01 /* Exercice 2_6.cpp in Sources */,
+				42125CB4201CA205007ADC01 /* Exercice 28.cpp in Sources */,
+				42125CAC201CA205007ADC01 /* Exercice 20.cpp in Sources */,
+				42125C91201CA205007ADC01 /* Exercice 1_1.cpp in Sources */,
+				42125CA9201CA205007ADC01 /* Exercice 17.cpp in Sources */,
+				42125CB0201CA205007ADC01 /* Exercice 24.cpp in Sources */,
+				42125C96201CA205007ADC01 /* Exercice 2_3.cpp in Sources */,
+				42125CA8201CA205007ADC01 /* Exercice 16.cpp in Sources */,
+				42125CAF201CA205007ADC01 /* Exercice 23.cpp in Sources */,
+				42125CB7201CA205007ADC01 /* Exercice 31.cpp in Sources */,
+				42125CA1201CA205007ADC01 /* Exercice 9.cpp in Sources */,
+				42125CB2201CA205007ADC01 /* Exercice 26.cpp in Sources */,
+				42125C94201CA205007ADC01 /* Exercice 2_1.cpp in Sources */,
+				42125C9E201CA205007ADC01 /* Exercice 6.cpp in Sources */,
+				42125CAE201CA205007ADC01 /* Exercice 22.cpp in Sources */,
+				42125C9C201CA205007ADC01 /* Exercice 4.cpp in Sources */,
+				42125CAD201CA205007ADC01 /* Exercice 21.cpp in Sources */,
+				42125C9B201CA205007ADC01 /* Exercice 3.cpp in Sources */,
+				42125CA7201CA205007ADC01 /* Exercice 15.cpp in Sources */,
+				42125C92201CA205007ADC01 /* Exercice 1_2.cpp in Sources */,
+				42125C95201CA205007ADC01 /* Exercice 2_2.cpp in Sources */,
+				42125CA3201CA205007ADC01 /* Exercice 11.cpp in Sources */,
+				42125C9A201CA205007ADC01 /* Exercice 2_7.cpp in Sources */,
+				42125C97201CA205007ADC01 /* Exercice 2_4.cpp in Sources */,
+				42125C9D201CA205007ADC01 /* Exercice 5.cpp in Sources */,
+				42125CAA201CA205007ADC01 /* Exercice 18.cpp in Sources */,
+				42125CA6201CA205007ADC01 /* Exercice 14.cpp in Sources */,
+				42125C9F201CA205007ADC01 /* Exercice 7.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
