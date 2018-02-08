@@ -4,7 +4,6 @@
 
 #include "Exercice 31.h"
 using namespace std;
-
 struct Livres{
  char titre[50];
  char auteur[50];
@@ -36,4 +35,3 @@ struct Livres{
  void imprimerLivre(struct Livres *livre){
  cout << "Book" << endl << "\tTitre " << livre->titre << endl << "\tAuteur " << livre->auteur << endl <<  "\tSujet " << livre->sujet << endl << "\tId " << livre->livre_id << endl;
  }
-
